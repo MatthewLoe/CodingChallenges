@@ -31,6 +31,7 @@ public class StringReverse
         {
             return str;
         }
+        //END IF
 
         return reverse(str.substring(1)) + str.charAt(0);
     }

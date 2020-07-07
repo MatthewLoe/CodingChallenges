@@ -13,9 +13,7 @@ public class RemoveDuplicatesInPlace
         System.out.println("Remove duplicates");
         System.out.println("Input: "+Arrays.toString(arr));
 
-        System.out.println("Using Collections Set");
-
-        
+        System.out.println("Using Collections Set");        
 
         System.out.println("Output: "+removeDuplicatesSet(arr).toString());
 

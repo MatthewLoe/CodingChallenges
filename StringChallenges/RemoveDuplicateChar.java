@@ -1,3 +1,5 @@
+package StringChallenges;
+
 import java.util.HashSet;
 
 public class RemoveDuplicateChar

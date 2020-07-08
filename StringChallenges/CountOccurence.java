@@ -1,3 +1,4 @@
+package StringChallenges;
 
 public class CountOccurence
 {
